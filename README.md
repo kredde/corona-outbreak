@@ -1,6 +1,7 @@
 # COVID-19 Outbreak Analysis Italy
 
-These notebooks visualize the spread of the coronavirus in Italy and the province of Bolzano.
+These notebooks visualize the spread of the coronavirus in Italy and the province of Bolzano. They'll automatically be updated every day at 7:30pm.
+
 
 ## Notebooks
 [Italy](https://kredde.github.io/corona-outbreak/italy.html)

@@ -3,6 +3,7 @@ texture:
   title: Corona Outbreak Analysis
   tagline: Kristian Schwienbacher
   style: blue
+  analytics_id: 'UA-161409017-1'
 
   social_links:
     twitter: kr3dde
