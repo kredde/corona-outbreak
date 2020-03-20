@@ -1,0 +1,9 @@
+remote_theme: thelehhman/texture
+texture:
+  title: Corona Outbreak Analysis
+  tagline: Kristian Schwienbacher
+  style: blue
+
+  social_links:
+    twitter: kr3dde
+    github:  kredde
