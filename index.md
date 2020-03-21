@@ -4,6 +4,8 @@ layout: page
 
 These notebooks visualize the spread of the coronavirus in Italy and the province of Bolzano. They'll automatically be updated every day at 7:30pm.
 
+**Disclaimer**: Experts estimate that many of the infections reemain unreported, and therefore the collected data does not necessarily give the full picture of the situation. 
+
 ## Notebooks
 ### Italy
 Visualizes the data on an national level and models the deaths and infections 
