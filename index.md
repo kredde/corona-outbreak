@@ -20,7 +20,7 @@ models the infections of the next days for the province.
 [Notebook](https://kredde.github.io/corona-outbreak/bolzano.html)
 
 ## Previous Days
-Notebooks of previous days can be found [here](https://github.com/kredde/corona-outbreak/tree/master/previous).
+Notebooks of previous days can be found [here](https://kredde.github.io/corona-outbreak/previous).
 
 
 

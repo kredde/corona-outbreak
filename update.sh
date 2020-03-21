@@ -1,4 +1,4 @@
-#!/bin/bash
+# #!/bin/bash
 
 YESTERDAY=$(date -d "yesterday" '+%Y-%m-%d')
 TODAY=$(date +%Y-%m-%d)
@@ -18,3 +18,9 @@ mv italy.html "previous/italy-$YESTERDAY.html"
 # create new html files
 jupyter nbconvert italy.ipynb
 jupyter nbconvert bolzano.ipynb
+
+
+# add line to previous index file
+sed -i '$ d' previous/index.md
+echo "| $YESTERDAY | [Notebook](https://kredde.github.io/corona-outbreak/previous/italy-$YESTERDAY.html) | [Notebook](https://kredde.github.io/corona-outbreak/previous/bolzano-$YESTERDAY.html)|" >> previous/index.md
+echo "| $TODAY | [Notebook](https://kredde.github.io/corona-outbreak/italy.html) | [Notebook](https://kredde.github.io/corona-outbreak/bolzano.html)|" >> previous/index.md
