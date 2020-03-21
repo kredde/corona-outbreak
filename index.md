@@ -7,7 +7,7 @@ These notebooks visualize the spread of the coronavirus in Italy and the provinc
 ## Notebooks
 ### Italy
 Visualizes the data on an national level and models the deaths and infections 
-of the next days.
+of the next days using an exponential and a logistic model.
 
 [Notebook](https://kredde.github.io/corona-outbreak/italy.html)
 
